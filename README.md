@@ -7,4 +7,4 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/stanley-christian-darmawan-79a303205/)
 
-<p hidden> <img src="https://komarev.com/ghpvc/?username=StanleyChristianDarmawan&label=hello&color=grey&style=flat" alt="StanleyChristianDarmawan" /> </p>
+<p hidden> <img src="https://komarev.com/ghpvc/?username=StanleyChristianDarmawan&label=Visitor&color=grey&style=flat" alt="StanleyChristianDarmawan" /> </p>
