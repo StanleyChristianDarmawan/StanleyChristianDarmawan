@@ -4,7 +4,9 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/stanley-christian-darmawan-79a303205/)
+<p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/stanley-christian-darmawan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stanley-christian-darmawan/" height="30" width="40" /></a>
+  <a href="https://medium.com/https://medium.com/@stanleychristiandarmawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@stanleychristiandarmawan" height="30" width="40" /></a>
+</p>
 
 <p hidden> <img src="https://komarev.com/ghpvc/?username=StanleyChristianDarmawan&label=Visitor&color=grey&style=flat" alt="StanleyChristianDarmawan" /> </p>
