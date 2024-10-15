@@ -44,7 +44,7 @@
   
 
 <br>
-<h2 align="center">⚡ Current Tech Stack</h2>
+<h2 align="center">Current Tech Stack ⚡</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&color=6A6AD2" alt="Java">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&color=F7DF1E" alt="JavaScript">
@@ -55,7 +55,7 @@
 </p>
 
 <br>
-<h2 align="center">🔥 Stats</h2>
+<h2 align="center">Stats 🔥</h2>
 <div align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com?user=StanleyChristianDarmawan&theme=whatsapp-dark&hide_border=true"><img src="https://github-readme-streak-stats.herokuapp.com?user=StanleyChristianDarmawan&theme=whatsapp-dark&hide_border=true" alt="GitHub Streak" /></a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=StanleyChristianDarmawan&theme=gotham&show_icons=true&hide_border=true&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanleyChristianDarmawan&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages" /></a>
