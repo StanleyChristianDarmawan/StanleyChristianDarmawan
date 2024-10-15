@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=6A6AD2&center=true&vCenter=true&width=435&lines=Software+Developer;Software+Engineer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" /></a>
 </p>
 
----
+
 <br>
 <h2 align="center">About Me 👨‍💻</h2>
 
@@ -42,9 +42,9 @@
 </p>
 
   
----
+
 <br>
-<h2 align="center">👨‍💻 Current Tech Stack</h2>
+<h2 align="center">⚡ Current Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&color=6A6AD2" alt="Java">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&color=F7DF1E" alt="JavaScript">
@@ -61,19 +61,19 @@
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=StanleyChristianDarmawan&theme=gotham&show_icons=true&hide_border=true&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanleyChristianDarmawan&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages" /></a>
 </div>
 
----
+
 <br>
 <h2 align="center">💬 Connect with Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/stanley-christian-darmawan" target="blank">
+  <a href="https://linkedin.com/in/stanley-christian-darmawan" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@stanleychristiandarmawan" target="blank">
+  <a href="https://medium.com/@stanleychristiandarmawan" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:stanleychristiandarmawan@domain.com">
+  <a href="mailto:stanleychristiandarmawan@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
