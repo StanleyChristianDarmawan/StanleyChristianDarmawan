@@ -59,6 +59,11 @@
 <div align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com?user=StanleyChristianDarmawan&theme=whatsapp-dark&hide_border=true"><img src="https://github-readme-streak-stats.herokuapp.com?user=StanleyChristianDarmawan&theme=whatsapp-dark&hide_border=true" alt="GitHub Streak" /></a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=StanleyChristianDarmawan&theme=gotham&show_icons=true&hide_border=true&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanleyChristianDarmawan&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages" /></a>
+<br><br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=StanleyChristianDarmawan&style=for-the-badge" alt="Profile Views">
+</p>
+
 </div>
 
 
@@ -78,7 +83,3 @@
   </a>
 </p>
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/khttht/khttht/main/assets/footer.gif" alt="cool footer" width="600" />
-</div>
