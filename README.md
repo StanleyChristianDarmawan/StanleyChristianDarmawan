@@ -9,39 +9,31 @@
 <h2 align="center">About Me 👨‍💻</h2>
 
 <p align="center">
-  <b>🚀 Explorer of Cutting-Edge Tech:</b> 
-  <br>
-  I'm passionate about the future of technology, diving deep into the realms of <strong>Web 3.0</strong> and <strong>Machine Learning</strong>.
+  A tech enthusiast with a deep passion for the future of technology, particularly in the fields of <strong>Web 3.0</strong> and <strong>Machine Learning</strong>.
 </p>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <h3>🕸️ Web 3.0</h3>
-        <p>
+      <td align="center">
+        <p><strong>Web 3.0</strong></p>
+        <p align="left">
           🌐 Building decentralized applications<br>
-          💡 Innovating with blockchain and smart contracts<br>
-          📈 Empowering a trustless, transparent future
+          🌐 Work with blockchain and smart contracts<br>
+          🌐 Empowering a trustless, transparent future
         </p>
       </td>
-      <td align="center" width="50%">
-        <h3>🤖 Machine Learning</h3>
+      <td align="center">
+        <p><strong>Machine Learning</strong></p>
         <p>
-          🔍 Enthusiast in data-driven decisions<br>
+          💻 Enthusiast in data-driven decisions<br>
           💻 Applying algorithms to real-world problems<br>
-          🧠 Crafting intelligent systems for automation
+          💻 Crafting intelligent systems for automation
         </p>
       </td>
     </tr>
   </table>
 </div>
-
-<p align="center">
-  I'm always seeking new ways to leverage <strong>Web 3</strong> and <strong>ML</strong> to build innovative solutions and create positive impact in the tech world.
-</p>
-
-  
 
 <br>
 <h2 align="center">Current Tech Stack ⚡</h2>
